@@ -12,7 +12,14 @@ My 30-day journey to develop Python skills and transition into Machine Learning 
   ##  Learning Progress
     ### Day 1
 - Variables & Data Types  
-- Simple Calculator  
+- Simple Calculator
+     ### Day 2
+- Implemented temperature conversion (Celsius ↔ Fahrenheit)  
+- Solved basic mathematical and engineering problems  
+- Developed logic for swapping variables without extra memory  
+- Built a temperature warning system using conditional statements  
+- Strengthened problem-solving fundamentals  
+
 
    ##  Tools & Technologies
 - Python  
